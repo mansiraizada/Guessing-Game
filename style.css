@@ -211,6 +211,7 @@
 
                 main {
                     max-width: 1200px;
+                  gap:100px;
                     margin: 0 auto;
                 }
             }
