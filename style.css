@@ -28,10 +28,10 @@
             }
 
             main {
-                flex:1;
                 color: #eee;
                 display: flex;
                 align-items: center;
+                gap:100px;
                 justify-content: space-around;
                 padding: 2rem;
                 min-height: 400px;
