@@ -28,6 +28,7 @@
             }
 
             main {
+                flex:1;
                 color: #eee;
                 display: flex;
                 align-items: center;
@@ -146,6 +147,7 @@
                 }
 
                 main {
+                    flex:unset;
                     flex-direction: column;
                     padding: 1rem;
                     gap: 2rem;
