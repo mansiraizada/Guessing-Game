@@ -28,7 +28,6 @@
             }
 
             main {
-                flex: 1;
                 color: #eee;
                 display: flex;
                 align-items: center;
